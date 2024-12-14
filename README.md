@@ -14,7 +14,7 @@ We propose the use of object detection as an approach to count cells present in 
 
 - **Thao:** She was more active in the other aspects of the project.
 
-
+## Main result
 
 <img width="733" alt="Screenshot 2024-12-12 at 8 03 04 PM" src="https://github.com/user-attachments/assets/36a6de32-661c-4b40-ae81-c76418a7aea9" />
 
