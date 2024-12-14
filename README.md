@@ -9,9 +9,12 @@ We propose the use of object detection as an approach to count cells present in 
 
 - **Nazifa:** Developed the `data visualization.ipynb` code and was one of the main annotators.
 
-- **Rayan:** Served as the primary data annotator.ain annotators.
 
 - **Rayan:** Served as the primary data annotator.
+
+- **Thao:** She was more active in the other aspects of the project.
+
+
 
 <img width="733" alt="Screenshot 2024-12-12 at 8 03 04 PM" src="https://github.com/user-attachments/assets/36a6de32-661c-4b40-ae81-c76418a7aea9" />
 
@@ -29,3 +32,10 @@ roboflow.zip; unzip roboflow.zip; rm roboflow.zip
 curl -L "https://app.roboflow.com/ds/RMavzafKfe?key=vR4b3yUfnP" > 
 roboflow.zip; unzip roboflow.zip; rm roboflow.zip
 ```
+
+Code Running Tip:
+You can execute the codes on Pronto step by step to achieve the same results as we do. The only changes needed are the paths to the datasets and YAML files.
+
+Code References:
+
+Training.ipynb: https://colab.research.google.com/github/roboflow-ai/notebooks/blob/main/notebooks/train-yolov8-object-detection-on-custom-dataset.ipynb#scrollTo=tdSMcABDNKW-
